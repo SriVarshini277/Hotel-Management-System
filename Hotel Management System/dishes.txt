@@ -1,0 +1,38 @@
+Idly(3 Nos)
+Idyapam(3 Nos)
+Vada
+Dosa
+Pongal
+Chapati
+Puri
+Upma
+Tomato Rice
+Lemon rice
+Tamarind Rice
+Curd Rice
+Mushroom Biriyani
+Veg. Biriyani
+Veg. Fried Rice
+Paneer Butter Masala
+Veg. Gravy
+Veg. Noodles
+Gobi 65
+Full Meals
+Chicken Biriyani
+Mutton Biriyani
+Chicken Gravy
+Fish Gravy
+Mutton Gravy
+Chicken 65
+Fish Fry
+Chicken Lollipop
+Tomato Soup
+Veg. Soup
+Chicken Soup
+Mutton Soup
+Amul Cone
+Vanilla Cup
+Chocobar
+Casatta
+Family Pack
+Fresh Fruit Juice

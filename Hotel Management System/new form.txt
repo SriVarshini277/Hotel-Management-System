@@ -1,0 +1,3 @@
+this.hide();
+form2 f2=new form2();
+f2.showdialog();

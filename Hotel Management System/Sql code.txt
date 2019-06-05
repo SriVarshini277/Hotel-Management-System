@@ -1,0 +1,11 @@
+create table list_72(item varchar(50),price decimal(5,2));
+insert list_72(item,price) values('Fresh Fruit Juice',50.00);
+select * from list_72;
+
+create table food_72(billno numeric(5) primary key,item_name varchar(50),rate decimal(5,2),quantity numeric(3),amount decimal(5,2));
+UPDATE food_72 SET amount=rate*quantity;
+select * from food_72;
+
+
+create table customer_72(custid numeric(5),phno numeric(10),address varchar(70));
+select * from customer_72;
